@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		339165AD2B43A41600D27750 /* Rules1.png in Resources */ = {isa = PBXBuildFile; fileRef = 339165A72B43A41600D27750 /* Rules1.png */; };
+		339165AE2B43A41600D27750 /* Rules2.png in Resources */ = {isa = PBXBuildFile; fileRef = 339165A82B43A41600D27750 /* Rules2.png */; };
+		339165AF2B43A41600D27750 /* Rules3.png in Resources */ = {isa = PBXBuildFile; fileRef = 339165A92B43A41600D27750 /* Rules3.png */; };
+		339165B02B43A41600D27750 /* GameOver.png in Resources */ = {isa = PBXBuildFile; fileRef = 339165AA2B43A41600D27750 /* GameOver.png */; };
+		339165B12B43A41600D27750 /* GameScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 339165AB2B43A41600D27750 /* GameScreen.png */; };
 		3391A44B2B02903100B88DC5 /* warApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391A44A2B02903100B88DC5 /* warApp.swift */; };
 		3391A44D2B02903100B88DC5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3391A44C2B02903100B88DC5 /* ContentView.swift */; };
 		3391A44F2B02903300B88DC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3391A44E2B02903300B88DC5 /* Assets.xcassets */; };
@@ -38,6 +43,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		339165A72B43A41600D27750 /* Rules1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Rules1.png; path = ../../../../../Desktop/Rules1.png; sourceTree = "<group>"; };
+		339165A82B43A41600D27750 /* Rules2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Rules2.png; path = ../../../../../Desktop/Rules2.png; sourceTree = "<group>"; };
+		339165A92B43A41600D27750 /* Rules3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Rules3.png; path = ../../../../../Desktop/Rules3.png; sourceTree = "<group>"; };
+		339165AA2B43A41600D27750 /* GameOver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GameOver.png; path = ../../../../../Desktop/GameOver.png; sourceTree = "<group>"; };
+		339165AB2B43A41600D27750 /* GameScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = GameScreen.png; path = ../../../../../Desktop/GameScreen.png; sourceTree = "<group>"; };
 		3391A4472B02903100B88DC5 /* war.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = war.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3391A44A2B02903100B88DC5 /* warApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = warApp.swift; sourceTree = "<group>"; };
 		3391A44C2B02903100B88DC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +90,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		339165A52B43A3FA00D27750 /* warPreviewImages */ = {
+			isa = PBXGroup;
+			children = (
+				339165AA2B43A41600D27750 /* GameOver.png */,
+				339165AB2B43A41600D27750 /* GameScreen.png */,
+				339165A72B43A41600D27750 /* Rules1.png */,
+				339165A82B43A41600D27750 /* Rules2.png */,
+				339165A92B43A41600D27750 /* Rules3.png */,
+			);
+			path = warPreviewImages;
+			sourceTree = "<group>";
+		};
 		3391A43E2B02903100B88DC5 = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +123,7 @@
 		3391A4492B02903100B88DC5 /* war */ = {
 			isa = PBXGroup;
 			children = (
+				339165A52B43A3FA00D27750 /* warPreviewImages */,
 				33D4D5852B16ED2E00D72E2A /* GameOver */,
 				33E3F0C12B0FBF1600E2E035 /* Rules */,
 				3391A44A2B02903100B88DC5 /* warApp.swift */,
@@ -245,8 +268,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				339165AE2B43A41600D27750 /* Rules2.png in Resources */,
+				339165AD2B43A41600D27750 /* Rules1.png in Resources */,
+				339165B12B43A41600D27750 /* GameScreen.png in Resources */,
 				3391A4532B02903300B88DC5 /* Preview Assets.xcassets in Resources */,
+				339165B02B43A41600D27750 /* GameOver.png in Resources */,
 				3391A44F2B02903300B88DC5 /* Assets.xcassets in Resources */,
+				339165AF2B43A41600D27750 /* Rules3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
