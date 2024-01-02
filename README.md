@@ -1,5 +1,5 @@
 # WarApp
-WarApp is my first introduction to Swift and app development. This app replicates the card game war, with a fully functioning deck of 52 cards that keeps track of what has been removed from the deck and what cards are left in play through the use of classes and arrays. On top of that, a restart function that resets the state of the game and allows the player to play again. This app focuses on Swiftui's navigation stack, the flow of logic, struct and classes, environments, working in different views, and UIDesign. To preview the app on a device continue reading below.
+WarApp is my first introduction to Swift and app development. This app replicates the card game war, with a fully functioning deck of 52 cards that keeps track of what has been removed from the deck and what cards are left in play through the use of classes and arrays. On top of that, a score tracker that declares the winner once every card is played and a restart function that resets the state of the game and allows the player to play again. This app focuses on Swiftui's navigation stack, the flow of logic, struct and classes, environments, working in different views, and UIDesign. To preview the app on a device continue reading below.
 
 This is the game screen where the game is played by pressing "deal" and the rules are available to read
 
