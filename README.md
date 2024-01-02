@@ -9,7 +9,7 @@ The rules screen experiments with Swift's tab view and follows the structure of 
 
 Screen 1                                                                   |  Screen 2
 :-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
-<img src="AppPreviewImages/Rules1.png" width="230" height="500"/>  |  <img src="AppPreviewImages/Rules2.png" width="230" height="500"/> | <img src="AppPreviewImages/Rules3.png" width="230" height="500"/> |
+<img src="appPreviewImages/Rules1.png" width="230" height="500"/>  |  <img src="appPreviewImages/Rules2.png" width="230" height="500"/> | <img src="appPreviewImages/Rules3.png" width="230" height="500"/> |
 
 Finally, the game over screen plays around with Swift's sheet and presentation mode to make the game over screen pop up.
 
