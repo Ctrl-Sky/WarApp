@@ -3,10 +3,12 @@ WarApp is my first introduction to Swift and app development. This app replicate
 
 This is the game screen where the game is played by pressing "deal" and the rules are available to read
 
-<img src="appPreviewImages/MuscleGroupScreen.png" width="230" height="500"/>
+<img src="appPreviewImages/GameScreen.png" width="230" height="500"/>
 
 The rules screen experiments with Swift's tab view and follows the structure of page view, model and screen.
 
 //
 
 Finally, the game over screen plays around with Swift's sheet and presentation mode to make the game over screen pop up.
+
+<img src="appPreviewImages/GameOver.png" width="230" height="500"/>
