@@ -7,7 +7,7 @@ This is the game screen where the game is played by pressing "deal" and the rule
 
 The rules screen experiments with Swift's tab view and follows the structure of page view, model and screen.
 
-Screen 1                                                                   |  Screen 2
+Screen 1                                                                   |  Screen 2 | Screen 3 |
 :-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:-------------------------------------------------------------------------:
 <img src="appPreviewImages/Rules1.png" width="230" height="500"/>  |  <img src="appPreviewImages/Rules2.png" width="230" height="500"/> | <img src="appPreviewImages/Rules3.png" width="230" height="500"/> |
 
